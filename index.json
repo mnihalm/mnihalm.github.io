@@ -1,0 +1,16 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "This That and Everything",
+    "description": "Recent content on This That and Everything",
+    "home_page_url" : "http://www.nihalmohan.com/",
+    "feed_url" : "http://www.nihalmohan.com/index.json",
+    "icon" : "http://www.nihalmohan.com/apple-touch-icon.png",
+    "favicon" : "http://www.nihalmohan.com/apple-touch-icon.png",
+    "author" : {
+        "name" : "Nihal M",
+        "url": "https://www.nihalmohan.com",
+        "avatar": "http://www.nihalmohan.com/path/to/some-image.jpg"
+    },
+    "items" : [
+    ]
+}
