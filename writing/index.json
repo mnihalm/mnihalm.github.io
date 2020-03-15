@@ -1,9 +1,9 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "This That and Everything",
-    "description": "Recent content on This That and Everything",
+    "title" : "Writing on This That and Everything",
+    "description": "Recent content in Writing on This That and Everything",
     "home_page_url" : "http://www.nihalmohan.com/",
-    "feed_url" : "http://www.nihalmohan.com/index.json",
+    "feed_url" : "http://www.nihalmohan.com/writing/index.json",
     "icon" : "http://www.nihalmohan.com/apple-touch-icon.png",
     "favicon" : "http://www.nihalmohan.com/apple-touch-icon.png",
     "author" : {

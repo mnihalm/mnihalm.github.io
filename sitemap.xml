@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.nihalmohan.com/writing/your-first-post/</loc>
+    <lastmod>2020-03-15T18:04:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nihalmohan.com/</loc>
+    <lastmod>2020-03-15T18:04:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nihalmohan.com/writing/</loc>
+    <lastmod>2020-03-15T18:04:16+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nihalmohan.com/categories/</loc>
   </url>
   
   <url>
     <loc>http://www.nihalmohan.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.nihalmohan.com/</loc>
   </url>
   
 </urlset>
