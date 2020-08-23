@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on This That and Everything</title>
-    <link>http://www.nihalmohan.com/categories/</link>
-    <description>Recent content in Categories on This That and Everything</description>
+    <title>Categories on This That and Everything - Nihal&#39;s personal site</title>
+    <link>https://nihalmohan.com/categories/</link>
+    <description>Recent content in Categories on This That and Everything - Nihal&#39;s personal site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <atom:link href="http://www.nihalmohan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2020 18:04:16 +0530</lastBuildDate>
+    
+	<atom:link href="https://nihalmohan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>writing</title>
+      <link>https://nihalmohan.com/categories/writing/</link>
+      <pubDate>Thu, 19 Mar 2020 18:04:16 +0530</pubDate>
+      
+      <guid>https://nihalmohan.com/categories/writing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

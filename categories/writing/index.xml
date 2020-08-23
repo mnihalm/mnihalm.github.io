@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on This That and Everything - Nihal&#39;s personal site</title>
+    <link>https://nihalmohan.com/categories/writing/</link>
+    <description>Recent content in writing on This That and Everything - Nihal&#39;s personal site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2020 18:04:16 +0530</lastBuildDate>
+    
+	<atom:link href="https://nihalmohan.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is the first post</title>
+      <link>https://nihalmohan.com/writing/your-first-post/</link>
+      <pubDate>Thu, 19 Mar 2020 18:04:16 +0530</pubDate>
+      
+      <guid>https://nihalmohan.com/writing/your-first-post/</guid>
+      <description>When I told my friend hours before i started making this blog, She asked - &amp;ldquo;What&amp;rsquo;s the first post gonna be about?&amp;rdquo;. On any other day, this innocent question would&amp;rsquo;ve made me think, quite a bit, until the thought of the ideal, perfect &amp;lsquo;first post&amp;rsquo; consumed all thought space until the wandering mind settled on the next shiny thing.
+Today was different though. Having lazed away over half a day, I decided that I shall finish setting up the blog.</description>
+    </item>
+    
+  </channel>
+</rss>
